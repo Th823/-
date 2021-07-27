@@ -124,7 +124,6 @@ if [[ -e /usr/local/bin/Check-Thai ]]; then
 		fi
 	fi
 	echo ""
-	echo -e "|${GRAY} 0${NC}| อัพเดตฟังก์ชั่นสคริปท์"
 	echo -e "|${GRAY}00${NC}| CHANGE TO ENGLISH"
 	echo ""
 	echo ""
@@ -156,7 +155,6 @@ elif [[ ! -e /usr/local/bin/Check-Thai ]]; then
 		fi
 	fi
 	echo ""
-	echo -e "|${GRAY} 0${NC}| UPDATE FUNCTION SCRIPT"
 	echo -e "|${GRAY}00${NC}| เปลี่ยนเป็นภาษาไทย"
 	echo ""
 	echo ""
@@ -699,7 +697,7 @@ echo -e "${NC} "
 	echo ""
 	echo ""
 	echo "================================================================= "
-	echo -e "ติดตั้งสำเร็จ... กรุณาพิมพ์คำสั่ง${GRAY} menu ${NC} เพื่อเข้าสู่หน้าหลัก"
+	echo -e "ติดตั้ง AZURAสำเร็จ... กรุณาพิมพ์คำสั่ง${GRAY} menu ${NC} เพื่อเข้าสู่หน้าหลัก"
 	echo "================================================================= "
 	echo ""
 	exit
