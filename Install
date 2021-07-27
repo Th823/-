@@ -91,7 +91,7 @@ echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${RED} #        AUTOSCRIPT CREATED BY AZURA         #    "
 echo -e "${RED} #      -----------About Us------------         #    "
 echo -e "${RED} #    OS  DEBIAN 7-8-9  OS  UBUNTU 14-16-17     #    "
-echo -e "${RED} #       Truemoney Wallet : 096-686-10        #    "
+echo -e "${RED} #       Truemoney Wallet : 096-686-1039       #    "
 echo -e "${RED} #               { VPN / OPEN }                  #    "
 echo -e "${RED} #         BY : AZURA               #    "
 echo -e "${RED} #    FB : https://line.me/ti/p/uQBO0ak3Qh       #    "
@@ -271,7 +271,7 @@ echo -e "${RED} =============== OS-32 & 64-bit =================    "
 echo -e "${GREEN} ไอพีเซิฟ: $IP "
 echo -e "${NC} "
 	read -p "IP Server : " -e -i $IP IP
-	read -p "Port Server : " -e -i 443 PORT
+	read -p "Port Server : " -e -i 1194 PORT
 	read -p "Port Proxy : " -e -i 8080 PROXY
 	echo ""
 	echo -e " |${GRAY}1${NC}| UDP"
